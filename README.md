@@ -22,9 +22,9 @@ cd chessLeaderboard-frontend
 Install dependencies.
 
 ```bash
+npm install --global pnpm
 pnpm install
 ```
-
 Serve with hot reload at <http://localhost:5173>.
 
 To serve application run
